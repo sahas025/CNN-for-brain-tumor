@@ -2,11 +2,11 @@
 
 A deep learning project implementing a custom Convolutional Neural Network (CNN) for multi-class brain tumor classification from medical images.
 
-## 🎯 Project Overview
+## Project Overview
 
 This project develops and evaluates a custom CNN architecture for automated brain tumor detection and classification. The model demonstrates performance comparable to established architectures like DenseNet121, making it a practical solution for medical image analysis.
 
-## 🔬 Key Features
+## Key Features
 
 - **Multi-class Classification**: Identifies different types of brain tumors
 - **Custom CNN Architecture**: Purpose-built network optimized for medical imaging
@@ -14,7 +14,7 @@ This project develops and evaluates a custom CNN architecture for automated brai
 - **Model Validation**: Tested on separate datasets to ensure generalization
 - **Performance Benchmarking**: Compared against DenseNet121 baseline
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Deep Learning Framework**: PyTorch 2.2.1
 - **Computer Vision**: Torchvision 0.17.1
@@ -24,14 +24,14 @@ This project develops and evaluates a custom CNN architecture for automated brai
 - **Image Processing**: Pillow 10.0.0
 - **Development Environment**: Jupyter Notebook
 
-## 📊 Model Performance
+## Model Performance
 
 The custom CNN architecture achieves performance metrics comparable to DenseNet121 on brain tumor classification tasks, demonstrating:
 - Effective feature extraction from medical images
 - Strong generalization across different datasets
 - Robust multi-class classification capabilities
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
